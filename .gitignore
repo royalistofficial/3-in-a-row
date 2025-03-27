@@ -1,3 +1,6 @@
 __pycache__/
 database.db
 config.py
+key.pem
+cert.pem
+app.log
